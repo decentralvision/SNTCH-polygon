@@ -1798,6 +1798,13 @@
     workbox-routing "^5.1.2"
     workbox-strategies "^5.1.2"
 
+"@layer0/react@^3.16.3":
+  version "3.16.3"
+  resolved "https://registry.yarnpkg.com/@layer0/react/-/react-3.16.3.tgz#90472e9dc15e9b35185d2f8d1fd07276c738c582"
+  integrity sha512-2mRLcDT5c9BaGCncanaRE9dJqs+Z4tHoJHqK8+wfioGyL7Nv6SO36LonskER1YcqB+sapDUWkknHcV1jw84W0w==
+  dependencies:
+    react-merge-refs "^1.1.0"
+
 "@magic-sdk/commons@^1.1.0":
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/@magic-sdk/commons/-/commons-1.1.0.tgz#253fbbb8846b79e8defacda68ac30b0ac3581e7c"
@@ -10711,6 +10718,11 @@ react-is@^17.0.1:
   version "17.0.2"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-17.0.2.tgz#e691d4a8e9c789365655539ab372762b0efb54f0"
   integrity sha512-w2GsyukL62IJnlaff/nRegPQR94C/XXamvMWmSHRJ4y7Ts/4ocGRmTHvOs8PSE6pB3dWOrD/nueuU5sduBsQ4w==
+
+react-merge-refs@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/react-merge-refs/-/react-merge-refs-1.1.0.tgz#73d88b892c6c68cbb7a66e0800faa374f4c38b06"
+  integrity sha512-alTKsjEL0dKH/ru1Iyn7vliS2QRcBp9zZPGoWxUOvRGWPUYgjo+V01is7p04It6KhgrzhJGnIj9GgX8W4bZoCQ==
 
 react-refresh@^0.8.3:
   version "0.8.3"
