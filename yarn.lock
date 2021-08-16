@@ -1798,7 +1798,7 @@
     workbox-routing "^5.1.2"
     workbox-strategies "^5.1.2"
 
-"@layer0/react@^3.16.3":
+"@layer0/react@3.16.3":
   version "3.16.3"
   resolved "https://registry.yarnpkg.com/@layer0/react/-/react-3.16.3.tgz#90472e9dc15e9b35185d2f8d1fd07276c738c582"
   integrity sha512-2mRLcDT5c9BaGCncanaRE9dJqs+Z4tHoJHqK8+wfioGyL7Nv6SO36LonskER1YcqB+sapDUWkknHcV1jw84W0w==
