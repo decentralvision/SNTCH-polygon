@@ -3,8 +3,8 @@
 module.exports = {
     backends: {
       origin: {
-        domainOrIp: 'https://closed-magic-polygon-master-3.free.layer0-perma.link',
-        hostHeader: 'https://closed-magic-polygon-master-3.free.layer0-perma.link',
+        domainOrIp: 'closed-magic-polygon-master-3.free.layer0-perma.link',
+        hostHeader: 'closed-magic-polygon-master-3.free.layer0-perma.link',
       },
     },
   }
