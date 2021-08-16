@@ -5,9 +5,9 @@ import Web3 from 'web3';
  * NOTE: when connecting to a testnet, TEST API keys must be used from the Magic dashboard (live API keys for eth mainnet)
  */
 
-const customNodeOptions = {
-  rpcUrl: 'https://rpc-mumbai.matic.today',
-  chainId: 80001
+ const customNodeOptions = {
+  rpcUrl: 'https://rpc-mainnet.maticvigil.com/', // Polygon RPC URL
+  chainId: 137, // Polygon chain id
 }
 
 // Setting network to Matic
