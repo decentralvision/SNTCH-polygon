@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2021-12-25T19:20:47.821Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="er8ITuvIKWhAcWE_QpZB" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-25T19:27:58.453Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="qu6HOsopAvbnRAyk2hU0" version="15.9.1" type="github">
   <diagram id="jtPNS9u7K7bFTt6-Y_2N" name="Page-1">
     <mxGraphModel dx="1862" dy="1721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="izu9FWkbz1vbarUPhPjC-1" value="customer profile&lt;br&gt;primary customer base&lt;br&gt;market research&lt;br&gt;&lt;br&gt;on ramps&lt;br&gt;&lt;br&gt;Ramp&lt;br&gt;Wallet login&lt;br&gt;&lt;br&gt;user experience&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="-40" width="200" height="170" as="geometry" />
+          <mxGeometry x="-10" y="-40" width="160" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="izu9FWkbz1vbarUPhPjC-2" value="voting shares (cred)&lt;br&gt;non-voting shares (STCH)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="-20" width="120" height="60" as="geometry" />
+        <mxCell id="izu9FWkbz1vbarUPhPjC-2" value="voting shares (REP)&lt;br&gt;non-voting shares (TOKEN)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
